@@ -1,0 +1,3 @@
+This Portfolio is belonging to Chathushi Dilhari jayarathna ...
+You can get my contact details by simply clicking the social Icons before You set it up for yours.
+
