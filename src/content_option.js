@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Enthusiastic and self-motivated Boy.Capable of handling responsibility & have good communication skills.Enjoing learning and applying new skills,Like to deal with challenges and apply my creative ideas. I dedicated myself to give the best service to my organization",
+    aboutme: "Enthusiastic and self-motivated Girl.Capable of handling responsibility & have good communication skills.Enjoing learning and applying new skills,Like to deal with challenges and apply my creative ideas. I dedicated myself to give the best service to my organization",
 };
 const worktimeline = [{
         jobtitle: "Sinhala",
@@ -112,7 +112,7 @@ const dataportfolio = [{
         projectName: "Meals On Wheels",
         img: "https://i.ibb.co/Dw9rQL1/M11.jpg",
         desctiption: "(December - 2022) A website application that provides Food to the people who are unable to get food or prepare food. The application allows users to register, login,Donors to donate though API Call,partner to Post meals,And member to request meals . (ReactJS, Spring Boot, Spring Security, JSON Web Token (JWT), Reacthook-form, Axios, MySQL)",
-        link: "https://github.com/tamimhossain11/BDSE04-Lithan-projects",
+        link: "https://github.com/Chathu-Jayarathna",
     },
    
 ];
