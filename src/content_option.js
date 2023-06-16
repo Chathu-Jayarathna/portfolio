@@ -120,7 +120,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "chathushi0707@gmail.com",
     YOUR_FONE: "+94742269976",
-    description: "Contact me via email and i am really sorry because my contact form is not available right now.",
+    description: "Contact me via email or phone number and i am really sorry because my contact form is not available right now.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
